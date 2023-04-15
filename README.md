@@ -14,12 +14,12 @@
   - vue.js✨
 - Back
   - python✨
-  - java
-  - php ✨✨
+  - java🤔
+  - php ✨
 - DB
   - mysql✨
 - ETC
-  - AWS
+  - AWS🤔
 ---
 
 <!--

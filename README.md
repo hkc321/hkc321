@@ -14,7 +14,7 @@
   - vue.js✨
 - Back
   - python✨
-  - java✨
+  - java
   - php ✨✨
 - DB
   - mysql✨

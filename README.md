@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Notion
+https://busy-tarantula-6ac.notion.site/bfedab1a43ec42c9a2df8ebf1944df30
+
 <!--
 **hunkicho/hunkicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

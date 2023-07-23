@@ -1,7 +1,7 @@
 ### Hi there 👋
 - [My Resume](https://busy-tarantula-6ac.notion.site/bf8be605a63842b4a095f8cef2f00991)
 - [My Record](https://busy-tarantula-6ac.notion.site/Study-Log-096739f4caa44da4954de39b9fd0d299)
-
+- [My Blog](https://medium.com/@jgchk4814)
 ---
 
 ### My stack<br>
@@ -12,6 +12,8 @@
 - Back
   - python✨
   - java🤔
+  - kotlin✨
+  - spring boot✨
   - php ✨✨
 - DB
   - mysql✨

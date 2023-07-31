@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/spring-4.3.8.RELEASE-blue?logo=spring) ](https://spring.io)
 [![](https://img.shields.io/badge/mybatis-3.2.3-blue?logo=mybatis) ](https://mybatis.org/mybatis-3/)
 
-[![](https://img.shields.io/badge/javascript-black?logo=javascript) ](https://mybatis.org/mybatis-3/)
+[![](https://img.shields.io/badge/javascript-black?logo=javascript) ](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![](https://img.shields.io/badge/angularJS-black?logo=angularjs) ](https://angularjs.org/)
 [![](https://img.shields.io/badge/html-black?logo=html5) ](https://www.w3.org/)
 [![](https://img.shields.io/badge/css-black?logo=css3) ](https://www.w3.org/TR/CSS/#css)

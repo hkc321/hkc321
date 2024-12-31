@@ -1,7 +1,7 @@
 ### Hi there 👋
-- [My Resume](https://busy-tarantula-6ac.notion.site/bf8be605a63842b4a095f8cef2f00991)
-- [My Record](https://busy-tarantula-6ac.notion.site/Study-Log-096739f4caa44da4954de39b9fd0d299)
-- [My Blog](https://medium.com/@jgchk4814)
+- [Resume](https://busy-tarantula-6ac.notion.site/bf8be605a63842b4a095f8cef2f00991)
+- [Blog](https://medium.com/@hello-every-one)
+<!--
 ---
 
 ### My stack<br>
@@ -44,7 +44,7 @@
 
 ---
 
-<!--
+
 **hunkicho/hunkicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
